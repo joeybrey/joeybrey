@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joeybrey
 - 👀 I’m interested in the stock market
 - 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on finance api apps
+- 💞️ I’m looking to collaborate on finance api projects
 - 📫 How to reach me jbrey15@gmail.com
 
 <!---

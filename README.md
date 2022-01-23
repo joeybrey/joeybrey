@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeybrey
-- 👀 I’m interested in stocks, snowboarding, and vr
-- 🌱 I’m currently learning python for data science
+- 👀 I'm interested in technical analysis, snowboarding, and vr
+- 🌱 I’m currently enhancing my python for data science
 - 💞️ I’m looking to collaborate on finance projects
 - 📫 How to reach me jbrey15@gmail.com
 
